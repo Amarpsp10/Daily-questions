@@ -5,7 +5,20 @@
 <hr>
 
 2. Chef wants to host some Division-3 contests. Chef has N setters who are busy creating new problems for him. The ith setter has made Ai problems where 1≤i≤N.
- <br>   A Division-3 contest should have exactly K problems. Chef wants to plan for the next D days using the problems that they have currently. But Chef cannot host more than one      Division-3 contest in a day.
-    Given these constraints, can you help Chef find the maximum number of Division-3 contests that can be hosted in these D days?<a  href="https://www.codechef.com/JAN21C/problems/DIVTHREE">(orignal question)</a> <br>
+  <br>   A Division-3 contest should have exactly K problems. Chef wants to plan for the next D days using the problems that they have currently. But Chef cannot host more than one      Division-3 contest in a day.
+    Given these constraints, can you help Chef find the maximum number of Division-3 contests that can be hosted in these D days?<a    href="https://www.codechef.com/JAN21C/problems/DIVTHREE">(orignal question)</a> <br>
     --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/02.java">solution</a>
  <hr>
+
+3. An encoder encodes the first 16 lowercase English letters using 4 bits each. The first bit (from the left) of the code is 0 if the letter lies among the first 8 letters, else it is 1, signifying that it lies among the last 8 letters. The second bit of the code is 0 if the letter lies among the first 4 letters of those 8 letters found in the previous step, else it's 1, signifying that it lies among the last 4 letters of those 8 letters. Similarly, the third and the fourth bit each signify the half in which the letter lies.
+<br>   For example, the letter j would be encoded as :
+<br>   Among (a,b,c,d,e,f,g,h | i,j,k,l,m,n,o,p), j appears in the second half. So the first bit of its encoding is 1.
+<br>   Now, among (i,j,k,l | m,n,o,p), j appears in the first half. So the second bit of its encoding is 0.
+<br>   Now, among (i,j | k,l), j appears in the first half. So the third bit of its encoding is 0.
+<br>   Now, among (i | j), j appears in the second half. So the fourth and last bit of its encoding is 1.
+<br>   So j's encoding is 1001, <a href="https://www.codechef.com/JAN21C/problems/DECODEIT">(orignal question)</a>
+<br>   --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/03.java">solution</a>
+
+<hr>
+
+4. 

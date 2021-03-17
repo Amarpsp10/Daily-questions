@@ -1,4 +1,4 @@
-/* package codechef; // don't place package name! */
+//https://www.codechef.com/FEB21C/problems/FROGS
 
 import java.util.*;
 import java.lang.*;

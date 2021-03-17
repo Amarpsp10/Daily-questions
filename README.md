@@ -23,3 +23,17 @@
 
 4. You are given a sequence A1,A2,…,AN. Find the maximum value of the expression |Ax−Ay|+|Ay−Az|+|Az−Ax| over all triples of pairwise distinct valid indices (x,y,z) <a href="https://www.codechef.com/FEB21C/problems/MAXFUN">(Original question)</a>
 <br>  --<a href ="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/04.java">solution</a>
+
+<hr>
+
+5. There are N frogs (numbered 1 through N) in a line. For each valid i, the i-th frog is initially at the position i, it has weight Wi, and whenever you hit its back, it jumps a distance Li to the right, i.e. its position increases by Li. The weights of the frogs are pairwise distinct.
+<br>
+   You can hit the back of each frog any number of times (possibly zero, not necessarily the same for all frogs) in any order. The frogs do not intefere with each other, so there can be any number of frogs at the same time at each position.
+<br>
+   Your task is to sort the frogs in the increasing order of weight using the smallest possible number of hits. In other words, after all the hits are performed, then for each pair of frogs (i,j) such that Wi<Wj, the position of the i-th frog should be strictly smaller than the position of the j-th frog. Find the smallest number of hits needed to achieve such a state.
+   <a href="https://www.codechef.com/FEB21C/problems/FROGS">(Original question)</a>
+<br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/05.java>(original question)</a>
+
+<hr>
+
+6.

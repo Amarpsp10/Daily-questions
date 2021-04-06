@@ -1,4 +1,4 @@
-/* package codechef; // don't place package name! */
+//https://www.codechef.com/APRIL21C/problems/BOLT
 
 import java.util.*;
 import java.lang.*;

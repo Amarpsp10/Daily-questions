@@ -40,13 +40,19 @@
 
 <hr>
 
-7.Сhef has assembled a football team! Now he needs to choose a name for his team. There are N words in English that Chef considers funny. These words are s1,s2,…,sN.
+7. Сhef has assembled a football team! Now he needs to choose a name for his team. There are N words in English that Chef considers funny. These words are s1,s2,…,sN.
 <br> Chef thinks that a good team name should consist of two words such that they are not funny, but if we swap the first letters in them, the resulting words are funny. Note that under the given constraints, this means that a word is a non-empty string containing only lowercase English letters.
 <br> Can you tell Chef how many good team names there are?<a href="https://www.codechef.com/FEB21C/problems/TEAMNAME">(Original question)</a>
 <br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/07.java">solution</a>
 
 <hr>
 
-8.Usain Bolt makes a new world record completing 100 m in 9.58 seconds.<br>
+8. Usain Bolt makes a new world record completing 100 m in 9.58 seconds.<br>
   This news headline has been echoing in Chef's mind since 2009 when he started his career in sprinting. This time in the 2021 Tokyo Olympics he is determined to make a new world record....<a href="https://www.codechef.com/APRIL21C/problems/BOLT">(Original question)</a>
 <br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/08.java">solution</a>
+
+<hr>
+
+9. A string is said to be using strong language if it contains at least K consecutive characters '*'.
+<br> You are given a string S with length N. Determine whether it uses strong language or not.<a href="https://www.codechef.com/APRIL21C/problems/SSCRIPT">(Original question)</a>
+<br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/09.java">solution</a>

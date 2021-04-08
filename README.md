@@ -56,3 +56,11 @@
 9. A string is said to be using strong language if it contains at least K consecutive characters '*'.
 <br> You are given a string S with length N. Determine whether it uses strong language or not.<a href="https://www.codechef.com/APRIL21C/problems/SSCRIPT">(Original question)</a>
 <br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/09.java">solution</a>
+
+<hr>
+
+10. Chef has N 6-sided standard dice. Each die has dimensions 1×1×1. Since Chef is bored during the quarantine, he decides to stack dice for fun.
+<br> First, Chef forms four vertical stacks of dice (not necessarily with the same height; empty stacks are allowed) on his table, which together make up a pile of dice with base area up to 2×2. Among all such structures, the total visible surface area of Chef's structure must be the smallest possible.
+<br> Then, Chef calculates the number of pips on the visible faces of all dice in the structure. A face of a die is visible if it does not touch the table or another die.
+<br> Now, he is wondering: among all possible arrangements of dice, what is the maximum possible total number of visible pips? Since he is busy cooking, he is asking you to solve this.<a href="https://www.codechef.com/APRIL21C/problems/SDICE">(Original question)</a>
+<br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/10.java">solution</a>

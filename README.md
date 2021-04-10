@@ -74,3 +74,9 @@
 <br> A K-worthy submatrix is a square submatrix of A, i.e. a submatrix with l rows and l columns, for any integer l, such that the average of all the integers in this submatrix is ≥K.
 <br> Chef wants you to find the number of K-worthy submatrices of A.<a href="https://www.codechef.com/APRIL21C/problems/KAVGMAT">(Original question)</a>
 <br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/11.java">solution</a>
+
+<hr>
+
+12. You are given a binary string S. Chef defines MEX(S) as the smallest non-negative integer such that its binary representation (without leading '0'-s; in particular, the binary representation of 0 is "0") is not a subsequence of S.
+<br> Chef is asking you to find MEX(S). Since this integer could be very large, find its binary representation (without leading '0'-s).<a href="https://www.codechef.com/APRIL21C/problems/MEXSTR">(Original question)</a>
+<br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/12.java">solution</a>

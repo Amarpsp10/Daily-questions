@@ -80,3 +80,8 @@
 12. You are given a binary string S. Chef defines MEX(S) as the smallest non-negative integer such that its binary representation (without leading '0'-s; in particular, the binary representation of 0 is "0") is not a subsequence of S.
 <br> Chef is asking you to find MEX(S). Since this integer could be very large, find its binary representation (without leading '0'-s).<a href="https://www.codechef.com/APRIL21C/problems/MEXSTR">(Original question)</a>
 <br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/12.java">solution</a>
+
+<hr>
+
+13. Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.(<a href='https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0'>Original question</a>)
+<br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/13.java">solution</a>

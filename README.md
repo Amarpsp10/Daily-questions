@@ -85,3 +85,8 @@
 
 13. Given an array of size N containing only 0s, 1s, and 2s; sort the array in ascending order.(<a href='https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0'>Original question</a>)
 <br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/13.java">solution</a>
+
+<hr>
+
+14. Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.(<a href='https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#'>Original question</a>)
+<br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/14.java">solution</a>

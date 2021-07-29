@@ -90,3 +90,8 @@
 
 14. Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.(<a href='https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1#'>Original question</a>)
 <br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/14.java">solution</a>
+
+<hr>
+
+15. Given an array arr of N integers. Find the contiguous sub-array with maximum sum.(<a href='https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#>Original question</a>)
+<br> --<a href="https://github.com/Amarpsp10/Daily-questions/blob/main/solutions/15.java">solution</a>
